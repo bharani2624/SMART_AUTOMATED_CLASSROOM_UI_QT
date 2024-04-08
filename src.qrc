@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bg.jpg</file>
+        <file>key.jpg</file>
+        <file>lock.jpg</file>
+        <file>top.jpg</file>
+        <file>switch-off.jpg</file>
+        <file>idea.jpg</file>
+        <file>ceiling-fan.jpg</file>
+        <file>computer.jpg</file>
+        <file>projector.jpg</file>
+        <file>socket.jpg</file>
+        <file>switch-on.jpg</file>
+        <file>bulb_off.jpg</file>
+        <file>bulb_on.jpg</file>
+    </qresource>
+</RCC>
